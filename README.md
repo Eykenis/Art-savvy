@@ -1,2 +1,2 @@
 # Art-savvy
-a github page to log my sutdy on art
+a github page to log my study on art
